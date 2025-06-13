@@ -73,6 +73,14 @@ Source : [Kaggle](https://www.kaggle.com/competitions/tweet-sentiment-extraction
 
 - **Visual Inspection**: Predicted spans were accurate and contextually meaningful.
 
+## How To Run
+```
+git clone https://github.com/pbattu18/twt_sent
+cd twitter-sentiment-model
+pip install -r requirements.txt
+```
+Use Kaggle, Jupyter Notebooks to run ```twitter_sent_model.ipynb```
+
 
 ## Future Work
 
